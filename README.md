@@ -8,6 +8,7 @@ My solutions to DSA problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitsingh7777/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -25,11 +26,13 @@ My solutions to DSA problems
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
