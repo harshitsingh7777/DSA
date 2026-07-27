@@ -13,6 +13,7 @@ My solutions to DSA problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitsingh7777/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/harshitsingh7777/DSA/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,6 +32,7 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/harshitsingh7777/DSA/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
