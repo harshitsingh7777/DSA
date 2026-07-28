@@ -28,6 +28,7 @@ My solutions to DSA problems
 | ------- |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -42,6 +43,7 @@ My solutions to DSA problems
 | ------- |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harshitsingh7777/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/harshitsingh7777/DSA/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -73,6 +75,7 @@ My solutions to DSA problems
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
