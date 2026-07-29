@@ -26,6 +26,7 @@ My solutions to DSA problems
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +42,7 @@ My solutions to DSA problems
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harshitsingh7777/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
