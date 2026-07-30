@@ -26,6 +26,7 @@ My solutions to DSA problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshitsingh7777/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@ My solutions to DSA problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshitsingh7777/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harshitsingh7777/DSA/tree/master/0125-valid-palindrome) |
@@ -83,4 +85,8 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harshitsingh7777/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
