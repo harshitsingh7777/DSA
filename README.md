@@ -53,6 +53,7 @@ My solutions to DSA problems
 | [0142-linked-list-cycle-ii](https://github.com/harshitsingh7777/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/harshitsingh7777/DSA/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/harshitsingh7777/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -98,4 +99,5 @@ My solutions to DSA problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshitsingh7777/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitsingh7777/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/harshitsingh7777/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
