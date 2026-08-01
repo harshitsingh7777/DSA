@@ -36,6 +36,7 @@ My solutions to DSA problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
+| [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +107,5 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harshitsingh7777/DSA/tree/master/0202-happy-number) |
+| [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
 <!---LeetCode Topics End-->
