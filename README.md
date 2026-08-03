@@ -21,6 +21,7 @@ My solutions to DSA problems
 | [0125-valid-palindrome](https://github.com/harshitsingh7777/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshitsingh7777/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshitsingh7777/DSA/tree/master/0344-reverse-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,6 +38,7 @@ My solutions to DSA problems
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 | [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +110,8 @@ My solutions to DSA problems
 | ------- |
 | [0202-happy-number](https://github.com/harshitsingh7777/DSA/tree/master/0202-happy-number) |
 | [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
