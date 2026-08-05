@@ -22,6 +22,7 @@ My solutions to DSA problems
 | [0242-valid-anagram](https://github.com/harshitsingh7777/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshitsingh7777/DSA/tree/master/0344-reverse-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [2810-faulty-keyboard](https://github.com/harshitsingh7777/DSA/tree/master/2810-faulty-keyboard) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,4 +115,8 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+## Simulation
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/harshitsingh7777/DSA/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
