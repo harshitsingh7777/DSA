@@ -40,6 +40,7 @@ My solutions to DSA problems
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 | [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1929-concatenation-of-array](https://github.com/harshitsingh7777/DSA/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -118,5 +119,6 @@ My solutions to DSA problems
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/harshitsingh7777/DSA/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/harshitsingh7777/DSA/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
