@@ -38,6 +38,7 @@ My solutions to DSA problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/harshitsingh7777/DSA/tree/master/0506-relative-ranks) |
 | [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1929-concatenation-of-array](https://github.com/harshitsingh7777/DSA/tree/master/1929-concatenation-of-array) |
@@ -48,6 +49,7 @@ My solutions to DSA problems
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitsingh7777/DSA/tree/master/0242-valid-anagram) |
+| [0506-relative-ranks](https://github.com/harshitsingh7777/DSA/tree/master/0506-relative-ranks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +123,8 @@ My solutions to DSA problems
 | ------- |
 | [1929-concatenation-of-array](https://github.com/harshitsingh7777/DSA/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/harshitsingh7777/DSA/tree/master/2810-faulty-keyboard) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/harshitsingh7777/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
