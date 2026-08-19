@@ -7,6 +7,7 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitsingh7777/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/harshitsingh7777/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/harshitsingh7777/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitsingh7777/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -17,6 +18,7 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitsingh7777/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/harshitsingh7777/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/harshitsingh7777/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshitsingh7777/DSA/tree/master/0242-valid-anagram) |
@@ -112,6 +114,7 @@ My solutions to DSA problems
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harshitsingh7777/DSA/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/harshitsingh7777/DSA/tree/master/0202-happy-number) |
 | [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
 ## Longest Increasing Subsequence
