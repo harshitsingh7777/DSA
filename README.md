@@ -14,6 +14,7 @@ My solutions to DSA problems
 | [0202-happy-number](https://github.com/harshitsingh7777/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitsingh7777/DSA/tree/master/0242-valid-anagram) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsingh7777/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ My solutions to DSA problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitsingh7777/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsingh7777/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@ My solutions to DSA problems
 | [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1929-concatenation-of-array](https://github.com/harshitsingh7777/DSA/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsingh7777/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
