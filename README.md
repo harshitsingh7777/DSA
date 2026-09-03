@@ -39,6 +39,7 @@ My solutions to DSA problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/harshitsingh7777/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
@@ -133,4 +134,8 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/harshitsingh7777/DSA/tree/master/0506-relative-ranks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/harshitsingh7777/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
