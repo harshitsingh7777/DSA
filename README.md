@@ -50,6 +50,7 @@ My solutions to DSA problems
 | [0238-product-of-array-except-self](https://github.com/harshitsingh7777/DSA/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/harshitsingh7777/DSA/tree/master/0506-relative-ranks) |
 | [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh7777/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1929-concatenation-of-array](https://github.com/harshitsingh7777/DSA/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsingh7777/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -108,6 +109,7 @@ My solutions to DSA problems
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh7777/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,4 +165,8 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshitsingh7777/DSA/tree/master/0169-majority-element) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh7777/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
