@@ -49,6 +49,7 @@ My solutions to DSA problems
 | [0217-contains-duplicate](https://github.com/harshitsingh7777/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshitsingh7777/DSA/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/harshitsingh7777/DSA/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0598-range-addition-ii](https://github.com/harshitsingh7777/DSA/tree/master/0598-range-addition-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh7777/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -109,6 +110,7 @@ My solutions to DSA problems
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsingh7777/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh7777/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
