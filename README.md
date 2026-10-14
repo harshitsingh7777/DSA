@@ -21,6 +21,7 @@ My solutions to DSA problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitsingh7777/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/harshitsingh7777/DSA/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/harshitsingh7777/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/harshitsingh7777/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshitsingh7777/DSA/tree/master/0242-valid-anagram) |
@@ -37,6 +38,7 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshitsingh7777/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/harshitsingh7777/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitsingh7777/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/harshitsingh7777/DSA/tree/master/0049-group-anagrams) |
@@ -176,4 +178,8 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh7777/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshitsingh7777/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
