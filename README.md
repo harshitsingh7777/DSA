@@ -182,4 +182,12 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshitsingh7777/DSA/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshitsingh7777/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
