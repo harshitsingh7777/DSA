@@ -27,6 +27,7 @@ My solutions to DSA problems
 | [0242-valid-anagram](https://github.com/harshitsingh7777/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshitsingh7777/DSA/tree/master/0344-reverse-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshitsingh7777/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshitsingh7777/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2810-faulty-keyboard](https://github.com/harshitsingh7777/DSA/tree/master/2810-faulty-keyboard) |
 ## Sliding Window
 |  |
@@ -89,6 +90,7 @@ My solutions to DSA problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitsingh7777/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshitsingh7777/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
@@ -151,6 +153,7 @@ My solutions to DSA problems
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshitsingh7777/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/harshitsingh7777/DSA/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/harshitsingh7777/DSA/tree/master/2810-faulty-keyboard) |
 ## Heap (Priority Queue)
